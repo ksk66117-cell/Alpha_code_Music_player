@@ -1,0 +1,28 @@
+body{
+font-family: Arial;
+background:#222;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.player{
+background:#333;
+padding:30px;
+border-radius:10px;
+text-align:center;
+width:300px;
+}
+
+button{
+padding:10px 15px;
+margin:10px;
+font-size:18px;
+cursor:pointer;
+}
+
+#progress{
+width:100%;
+}
